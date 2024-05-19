@@ -132,13 +132,13 @@ texto = '''
 >
 > ### Evolução dos preços
 >
-> ##### No gráfico abaixo podemos observar a evolução do preço em US$ do Petróleo Brent, nota-se a forte queda do preço do petróleo nos seguintes eventos de impacto global:
+> ##### No gráfico abaixo, observamos a evolução do preço em US$ do Petróleo Brent. Nota-se a forte queda do preço do petróleo nos seguintes eventos de impacto global:
 >
-> **Juho/2008 a Dezembro/2008 -** A crise mundial provocada pela bolha imobiliaria no Estados Unidos seguida pela recessão provocou a desaceleração da economia e queda nos preços do petróleo.
+> **Julho/2008 a Dezembro/2008 -** A crise mundial provocada pela bolha imobiliária nos Estados Unidos, seguida pela recessão, provocou a desaceleração da economia e queda nos preços do petróleo.
 >
-> **Junho/2014 a Janeiro/2015 -** Aumento da produção de petróleo nas Áreas de Xisto dos Estados Unidos provoca aumento da oferta que não foi acompanhada pelo consumo causando queda nos preços.
+> **Junho/2014 a Janeiro/2015 -** Aumento da produção de petróleo nas Áreas de Xisto dos Estados Unidos provoca aumento da oferta que não foi acompanhada pelo consumo, causando queda nos preços.
 >
-> **Janeiro/2020 a Abril/2020 -** A pandemia de COVID-19 causou diminuição do consumo mundial devido as medidas de isolamento, causando a queda nos preços.
+> **Janeiro/2020 a Abril/2020 -** A pandemia de COVID-19 causou diminuição do consumo mundial de petróleo devido as medidas de isolamento, causando a queda nos preços.
 '''
 st.markdown(texto)
 
@@ -217,7 +217,7 @@ texto = '''
 >
 > ### Predições dos preços
 >
-> ##### No gráfico a seguir podemos verificar o modelo de predição LSTM utilizado neste estudo. A partir de Julho/2016 podemos ver o desempenho do modelo comparado com os dados reais apurados.
+> ##### No gráfico a seguir, temos o modelo de predição LSTM utilizado neste estudo. A partir de Julho/2016, vemos o desempenho do modelo comparado com os dados reais apurados.
 > ##### Neste modelo foi aplicada a técnica de Suavização Exponencial.
 '''
 st.markdown(texto)
@@ -255,7 +255,7 @@ texto = '''
 >
 > ### Predição dos próximos 15 dias
 >
-> ##### Neste gráfico podemos verificar a predição para os próximos 15 dias.
+> ##### Neste gráfico, verificamos a predição para os próximos 15 dias.
 '''
 st.markdown(texto)
 
@@ -307,7 +307,7 @@ texto = '''
 >
 > ### Predição dos próximos 15 em US$
 >
-> ##### Neste gráfico podemos verificar a predição do valor em US$ para os próximos 15 dias.
+> ##### Neste gráfico, verificamos a predição do valor em US$ para os próximos 15 dias.
 '''
 st.markdown(texto)
 

@@ -21,7 +21,7 @@ st.markdown('---')
 
 texto = '''
 >
-> #### Foram utilizados 3 métodos distintos para elaboração de um modelo preditivo para Petróleo Brent, tomando como base um intervalo de tempo disponível, iniciando em 20/05/1987.
+> #### Foram utilizados 3 métodos distintos para elaboração de um modelo preditivo para Petróleo Brent, tomando como base um intervalo iniciando em 20/05/1987.
 >
 > **LSTM** - Apresentou o melhor resultado pelos indicadores MAPE = 1.15% e Mean Square Error: 8.629660442238674e-05 com a série temporal suavizada.
 > 
